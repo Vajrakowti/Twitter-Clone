@@ -1,0 +1,53 @@
+.sidebar{
+    border-right: 1px solid ;
+    flex: 0.3;
+    min-width: 250px;
+    margin-left: 20px;
+    margin-right: 0px;
+}
+
+.twitter{
+    font-size: 30px !important;
+    margin: 10px 20px;
+    margin-bottom: 10px;
+    margin-top: 30px;
+    margin-left: 60px;
+}
+
+.icons:hover{
+    background-color: #d3d3d3;
+    color: red;
+    border-radius: 30px;
+    transition: color 100ms ease-in;
+}
+
+.icons{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    padding: 10px;
+    margin-left: 50px;
+    font-size: 30px !important;
+}
+
+.icons > div{
+    margin: 0 12px;
+    font-size: 20px;
+}
+
+
+.side_tweet{
+    background-color: #1a8cd8;
+    border: none;
+    color: white;
+    font-weight: 900;
+    text-transform: inherit;
+    border-radius: 30px;
+    margin-left: 40px;
+    height: 50px;
+    margin-top: 20px;
+    width: 60%;
+}
+
+
+

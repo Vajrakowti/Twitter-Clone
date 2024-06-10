@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,32 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+
+/* html{
+  font-size: 92.5%;
+  box-sizing: border-box;
 }
+
+body{
+  margin: 0%;
+  font: 1rem helvetica;
+  height: 100vh;
+} */
+/* .App{
+  display: grid;
+  width: 100%;
+  flex-wrap: wrap;
+} */
+
+.app{
+  height: 100vh;
+  display: flex;
+  max-width: 1300px;
+  /* margin-left: auto;
+  margin-right: auto;
+  padding: 0 10px; */
+}
+
+
